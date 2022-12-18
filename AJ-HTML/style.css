@@ -1,0 +1,19 @@
+*{
+    font-weight: 900;
+    margin: 10px;
+    padding: 10px;
+    color: yellow;
+}
+
+p{
+    font-size: 40px;
+    color: red;
+}
+.content{
+    font-size: 40px;
+    color: green;
+}
+
+#content-id{
+    color: blue;
+}
